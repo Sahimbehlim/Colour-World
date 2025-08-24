@@ -1,0 +1,154 @@
+[
+  {
+    "about": [
+      {
+        "icon": "/about-quality.svg",
+        "text": "Quality Craftsmanship",
+        "desc": "Uncompromising standards in every detail"
+      },
+      {
+        "icon": "/about-timely.svg",
+        "text": "Timely Delivery",
+        "desc": "Committed to project timelines"
+      }
+    ],
+    "services": [
+      {
+        "icon": "/interior-service.svg",
+        "type": "Interior Design",
+        "desc": "Transforming spaces with thoughtful design that balances aesthetics and functionality."
+      },
+      {
+        "icon": "/civil-service.svg",
+        "type": "Civil Work",
+        "desc": "Structural excellence with precision engineering and quality construction practices."
+      },
+      {
+        "icon": "/waterproofing-service.svg",
+        "type": "Waterproofing",
+        "desc": "Advanced solutions to protect your property from water damage and leakage issues."
+      },
+      {
+        "icon": "/carpentary-service.svg",
+        "type": "Carpentry",
+        "desc": "Custom woodwork and furniture solutions crafted with precision and artistic detail."
+      },
+      {
+        "icon": "/pu-service.svg",
+        "type": "PU & Lamination",
+        "desc": "High-quality finishes that enhance durability and aesthetic appeal of surfaces."
+      },
+      {
+        "icon": "/polishing-service.svg",
+        "type": "Polishing",
+        "desc": "Expert polishing services for wood, metal and stone surfaces to achieve perfect finishes."
+      },
+      {
+        "icon": "/marble-service.svg",
+        "type": "Marble & Tiling",
+        "desc": "Precision installation of premium tiles and marble for elegant, durable surfaces."
+      },
+      {
+        "icon": "/electrical-service.svg",
+        "type": "Electrical",
+        "desc": "Comprehensive electrical solutions from wiring to fixtures, ensuring safety and efficiency."
+      },
+      {
+        "icon": "/fabrication-service.svg",
+        "type": "Fabrication",
+        "desc": "Custom metal fabrication for architectural elements, furniture, and decorative pieces."
+      },
+      {
+        "icon": "/painting-service.svg",
+        "type": "Painting",
+        "desc": "Premium painting services using quality paints and techniques for flawless finishes."
+      }
+    ],
+    "portfolio": [
+      {
+        "img": "/featured-9.jpeg",
+        "title": "Oberoi Signature"
+      },
+      {
+        "img": "/featured-8.jpeg",
+        "title": "Oberoi Signature"
+      },
+      {
+        "img": "/featured-3.jpg",
+        "title": "Oberoi Signature"
+      },
+      {
+        "img": "/featured-4.jpg",
+        "title": "Oberoi Signature"
+      },
+      {
+        "img": "/featured-5.jpg",
+        "title": "Oberoi Signature"
+      },
+      {
+        "img": "/featured-10.jpg",
+        "title": "Oberoi Signature"
+      }
+    ],
+    "whyChooseUs": [
+      {
+        "icon": "/expert-team.svg",
+        "title": "Expert Team",
+        "desc": "Skilled professionals with years of industry experience and specialized knowledge."
+      },
+      {
+        "icon": "/quality-materials.svg",
+        "title": "Quality Materials",
+        "desc": "We use only premium materials to ensure durability and lasting beauty."
+      },
+      {
+        "icon": "/client-focused.svg",
+        "title": "Client-Focused",
+        "desc": "We prioritize your vision, needs, and satisfaction throughout the project."
+      },
+      {
+        "icon": "/timely-delivery.svg",
+        "title": "Timely Delivery",
+        "desc": "We respect deadlines and complete projects within the agreed timeframe."
+      }
+    ],
+    "contactUs": [
+      {
+        "title": "Our Office",
+        "desc": "123 Construction Avenue, Metro City, 400001",
+        "icon": "/location.svg"
+      },
+      {
+        "title": "Phone",
+        "desc": "+91 90048 11311",
+        "icon": "/phone.svg"
+      },
+      {
+        "title": "Email",
+        "desc": "colourworldik@gmail.com",
+        "icon": "/email.svg"
+      }
+    ],
+    "footer": {
+      "social": [
+        { "icon": "/facebook-icon.svg", "path": "https://www.facebook.com/" },
+        { "icon": "/instagram-icon.svg", "path": "https://www.instagram.com/" },
+        { "icon": "/linkedin-icon.svg", "path": "https://www.linkedin.com/" }
+      ],
+      "quickLinks": [
+        { "title": "Home", "path": "#home" },
+        { "title": "About Us", "path": "#about-us" },
+        { "title": "Services", "path": "#services" },
+        { "title": "Projects", "path": "#projects" },
+        { "title": "Contact", "path": "#contact" }
+      ],
+      "servicesLinks": [
+        { "title": "Interior Design", "path": "#interior-design" },
+        { "title": "Civil Work", "path": "#civil-work" },
+        { "title": "Waterproofing", "path": "#waterproofing" },
+        { "title": "Carpentry", "path": "#carpentry" },
+        { "title": "Painting", "path": "#painting" }
+      ]
+    }
+  }
+]
